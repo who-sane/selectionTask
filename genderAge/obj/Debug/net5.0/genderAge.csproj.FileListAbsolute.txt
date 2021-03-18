@@ -1,0 +1,16 @@
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Selection\Exercise 1\genderAge\obj\Debug\net5.0\genderAge.csprojAssemblyReference.cache
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Selection\Exercise 1\genderAge\obj\Debug\net5.0\genderAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Selection\Exercise 1\genderAge\obj\Debug\net5.0\genderAge.AssemblyInfoInputs.cache
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Selection\Exercise 1\genderAge\obj\Debug\net5.0\genderAge.AssemblyInfo.cs
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Selection\Exercise 1\genderAge\obj\Debug\net5.0\genderAge.csproj.CoreCompileInputs.cache
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Selection\Exercise 1\genderAge\bin\Debug\net5.0\genderAge.exe
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Selection\Exercise 1\genderAge\bin\Debug\net5.0\genderAge.deps.json
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Selection\Exercise 1\genderAge\bin\Debug\net5.0\genderAge.runtimeconfig.json
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Selection\Exercise 1\genderAge\bin\Debug\net5.0\genderAge.runtimeconfig.dev.json
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Selection\Exercise 1\genderAge\bin\Debug\net5.0\genderAge.dll
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Selection\Exercise 1\genderAge\bin\Debug\net5.0\ref\genderAge.dll
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Selection\Exercise 1\genderAge\bin\Debug\net5.0\genderAge.pdb
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Selection\Exercise 1\genderAge\obj\Debug\net5.0\genderAge.dll
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Selection\Exercise 1\genderAge\obj\Debug\net5.0\ref\genderAge.dll
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Selection\Exercise 1\genderAge\obj\Debug\net5.0\genderAge.pdb
+C:\Users\Hussein Hussein\OneDrive - Swinburne University\Intro to OO programming\Selection\Exercise 1\genderAge\obj\Debug\net5.0\genderAge.genruntimeconfig.cache
